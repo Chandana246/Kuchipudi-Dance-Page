@@ -5,9 +5,8 @@
 }
 
 body {
-    background-color: #f0f0f0; /* Light grey background color */
     font-family: 'Arial', sans-serif;
-    background-color: #f8f8f8;
+    background-color: #f0f0f0; /* Updated to light grey */
     color: #333;
 }
 
